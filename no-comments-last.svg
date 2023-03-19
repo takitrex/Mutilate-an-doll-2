@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="780px" height="264px" viewBox="0 0 780 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-410.000000, -380.000000)">
+            <g id="Group" transform="translate(410.000000, 380.000000)">
+                <rect id="Rectangle-597" stroke="#E0E0E1" stroke-width="2" x="0" y="0" width="780" height="122" rx="3"></rect>
+                <circle id="Oval-255" fill="#C0C1C3" cx="29.5" cy="36.5" r="16.5"></circle>
+                <rect id="Rectangle-598" fill="#E0E0E1" x="52" y="33" width="80" height="8"></rect>
+                <rect id="Rectangle-598" fill="#E0E0E1" x="13" y="73" width="755" height="8"></rect>
+                <rect id="Rectangle-598" fill="#E0E0E1" x="13" y="94" width="465" height="8"></rect>
+                <rect id="Rectangle-597" stroke="#E0E0E1" stroke-width="2" x="0" y="142" width="780" height="122" rx="3"></rect>
+                <circle id="Oval-255" fill="#C0C1C3" cx="29.5" cy="178.5" r="16.5"></circle>
+                <rect id="Rectangle-598" fill="#E0E0E1" x="52" y="175" width="80" height="8"></rect>
+                <rect id="Rectangle-598" fill="#E0E0E1" x="13" y="215" width="755" height="8"></rect>
+                <rect id="Rectangle-598" fill="#E0E0E1" x="13" y="236" width="465" height="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
